@@ -1,0 +1,18 @@
+[project]
+name = "ltt_comfyui_load"
+version = "0.0.1"
+authors = [
+  { name="ltt", email="394115207@qq.com" },
+]
+description = "用于加载enj文件"
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/liangtongt/ltt_comfyui_load"
+"Bug Tracker" = "https://github.com/liangtongt/ltt_comfyui_load/issues"
